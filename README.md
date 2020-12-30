@@ -18,4 +18,5 @@ The Bank Of Swimming Organisms at the Micron scale
 
 **Rules:**
 1. Reference added in commit commentary
-2. 
+1. Genus_species.md files
+1. 
