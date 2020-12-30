@@ -1,0 +1,11 @@
+Species,B,dB,W,dW,U,dU,lambda,dlambda,f,df,c,dc,N,dN,L,dL,nwav,dnwav,h,dh,visc,d visc
+Halobacterium halobium,3.5,1.5,-,-,2.24,1.04,1,0.02,-,-,-,-,-,-,3.85,0.1,-,-,0.36,0.09,-,-
+Halobacterium salinarum,5.8,4.2,0.815,0.185,3,0.5,1.92,-,-,-,-,-,-,-,4.6,-,-,-,0.39,-,-,-
+Methanocaldococcus jannaschii,1.5,-,-,-,380,40,-,-,-,-,-,-,-,-,5,-,2,-,-,-,-,-
+Methanocaldococcus villosus,1.33,0.33,-,-,287,36,-,-,-,-,-,-,50,-,3.08,-,-,-,-,-,-,-
+Methanococcus maripaludis,1.3,0.2,-,-,25,3.4,0.96,0.16,-,-,-,-,25,-,2.045,0.115,-,-,0.1385,0.615,-,-
+Methanococcus voltae,1.75,0.25,-,-,80,8.5,-,-,-,-,-,-,30,-,1.71,0.85,-,-,-,-,-,-
+Methanospirillum hungatei,8.7,1.3,0.45,0.05,6.5,3.5,2,0.2,-,-,-,-,7.5,2.5,10,-,-,-,0.34,0.08,-,-
+Pyrococcus furiosus,2.5,-,-,-,62,7,-,-,-,-,-,-,50,-,7,-,-,-,-,-,-,-
+Haloarcula quadrata,2.715,0.355,-,-,0.73,0.29,1.315,0.435,-,-,-,-,-,-,5.18,-,4,-,0.13,0.02,-,-
+Sulfolobus acidocaldarius,1.2,0.3,-,-,45,4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
