@@ -1,4 +1,6 @@
 # BOSO-Micro
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/LOGO.png)
+
 The Bank Of Swimming Organisms at the Micron scale
 
 *Marcos F. Velho Rodrigues, Maciej Lisicki and Eric Lauga*
