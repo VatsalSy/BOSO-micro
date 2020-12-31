@@ -1,3 +1,5 @@
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Giardia_lamblia.png)
+
 **Species:** *Giardia lamblia*
 
 **Phylum:** Sarcomastigophora	
