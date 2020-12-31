@@ -6,28 +6,30 @@
 
 
 
-|**Morphology** |          |
-|:-------------  | :------: |
+| |     **Morphology**     |
+|:---- | :------: |
 | B |  |
-| dB |  | 
+| δB |  | 
 | W |  |
-| dW |  |
-| **Flagella** | |
+| δW |  |
+|  | **Flagella** |
 | N |  |
-| dN |  |
+| δN |  |
 | L |  |
-| dL |  |
-| lambda |  |
-| dlambda |  |
+| δL |  |
+| λ |  |
+| δλ |  |
 | h |  |
-| dh |  |
-| **Kinematics** | |
+| δh |  |
+|  | **Kinematics** |
 | U | |
-| dU |  |
+| δU |  |
 | f |  |
-| df |  |
-| Om |  |
-| dOm |  |
+| δf |  |
+| Ω |  |
+| δΩ |  |
 
 
 **Notes:** 
+
+**References:** BOSO,
