@@ -1,8 +1,8 @@
-**Species:** *Genus_species*
+**Species:** *Genus species*
 
-**Phylum:** Phylum_name
+**Phylum:** Phylum name
 
-**Class:** Taxonomic_class
+**Class:** Taxonomic class
 
 
 |     |**Morphology**|
