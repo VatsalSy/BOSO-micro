@@ -1,6 +1,6 @@
 **Species:** *Genus species*
 
-**Phylum:** Phylum_name
+**Phylum:** Phylum name
 
 **Class:** Taxonomic class
 
