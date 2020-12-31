@@ -1,5 +1,5 @@
 # BOSO-μ
-![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/LOGO.png)
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/LOGO.png)
 
 The Bank Of Swimming Organisms at the Micron scale
 
