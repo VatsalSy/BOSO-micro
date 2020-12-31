@@ -1,3 +1,5 @@
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Homo_sapiens.png)
+
 **Species:** *Homo sapiens*
 
 **Phylum:** Chordata
