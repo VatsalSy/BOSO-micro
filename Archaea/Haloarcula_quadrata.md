@@ -5,28 +5,30 @@
 **Class:** Halobacteria
 
 
-|**Morphology** |          |
-|:-------------  | :------: |
+|     |**Morphology**|
+|:--- | :------: |
 | B |  |
 | dB |  | 
 | W |  |
 | dW |  |
-| **Flagella** | |
+|  | **Flagella** |
 | N |  |
 | dN |  |
 | L |  |
 | dL |  |
-| lambda |  |
-| dlambda |  |
+| λ |  |
+| dλ |  |
 | h |  |
 | dh |  |
-| **Kinematics** | |
+|  | **Kinematics** |
 | U | |
 | dU |  |
 | f |  |
 | df |  |
-| Om |  |
-| dOm |  |
+| Ω |  |
+| dΩ |  |
 
 
-**Notes:** 
+**Notes:**
+
+**References:** BOSO, 
