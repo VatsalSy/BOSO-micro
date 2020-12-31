@@ -5,28 +5,32 @@
 **Class:** Oligohymenophorea
 
 
-|**Morphology** |          |
-|:-------------  | :------: |
+|    | **Morphology**  |
+|:-- | :------: |
 | B |  |
-| dB |  | 
+| δB |  | 
 | W |  |
-| dW |  |
-| **Flagella** | |
+| δW |  |
+|  | **Cilia** |
 | N |  |
-| dN |  |
+| δN |  |
 | L |  |
-| dL |  |
-| lambda |  |
-| dlambda |  |
-| h |  |
-| dh |  |
-| **Kinematics** | |
-| U | |
-| dU |  |
+| δL |  |
+| λmw |  |
+| δλmw |  |
+| d |  |
+| δd |  |
+| κ |  |
+| δκ
+|  | **Kinematics** |
+| U |  |
+| δU |  |
 | f |  |
-| df |  |
-| Om |  |
-| dOm |  |
+| δf |  |
+| Ω	|  |
+| δΩ |  |
 
 
-**Notes:** 
+**Notes:** λmw: wavelength of metachronal waves;
+
+**References:** BOSO,
