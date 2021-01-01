@@ -5,7 +5,7 @@
 **Class:** Taxonomic class
 
 |      | **Morphology** |
-|:---- | :------------: |
+| :--- | :------------: |
 | B    |  |
 | δB   |  |
 | W    |  |
@@ -30,7 +30,9 @@
 | δΩ   |  |
 
 **Notes:**
-1. **λmw:** wavelength of metachronal waves;
+
+1. **λmw:** Wavelength of metachronal waves;
 
 **References:**
+
 1.

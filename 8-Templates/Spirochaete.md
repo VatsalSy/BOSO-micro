@@ -1,9 +1,8 @@
 **Species:** *Genus species*
 
-**Phylum:** Phylum name
+**Phylum:** Spirochaetes
 
-**Class:** Taxonomic class
-
+**Order:** Taxonomic order
 
 |     | **Morphology** |
 |:--- | :------------: |
@@ -26,10 +25,11 @@
 | Ω   |  |
 | δΩ  |  |
 
-
 **Notes:**
+
 1. **λb:** Wavelength of spiral body;
 1. **hb:** Radius of spiral body;
 
 **References:**
+
 1.

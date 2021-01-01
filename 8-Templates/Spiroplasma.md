@@ -1,9 +1,8 @@
-**Species:** *Genus species*
+**Species:** *Spiroplasma species*
 
-**Phylum:** Phylum name
+**Phylum:** Tenericutes
 
-**Class:** Taxonomic class
-
+**Class:** Mollicutes
 
 |     | **Morphology** |
 |:--- | :------------: |
@@ -25,8 +24,10 @@
 
 
 **Notes:**
+
 1. **λb:** Wavelength of spiral body;
 1. **hb:** Radius of spiral body;
+1. **ck:** Speed of the propagation of kinks [µm s-1]
 
 **References:**
 1.

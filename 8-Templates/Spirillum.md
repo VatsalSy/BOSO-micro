@@ -4,7 +4,6 @@
 
 **Class:** Taxonomic class
 
-
 |     | **Morphology** |
 |:--- | :------------: |
 | B   |  |
@@ -32,10 +31,11 @@
 | Ω   |  |
 | δΩ  |  |
 
-
 **Notes:**
+
 1. **λb:** Wavelength of spiral body;
 1. **hb:** Radius of spiral body;
 
 **References:**
+
 1.
