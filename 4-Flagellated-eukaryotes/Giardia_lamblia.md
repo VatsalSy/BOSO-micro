@@ -1,5 +1,3 @@
-![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Giardia_lamblia.png)
-
 **Species:** *Giardia lamblia*
 
 **Phylum:** Sarcomastigophora
@@ -31,8 +29,10 @@
 
 **Notes:**
 
-1. η=1;
+1.
 
 **References:**
 
-1. BOSO
+1. Lenaghan SC, Davis CA, Henson WR, Zhang Z, Zhang M.  High-speed microscopic imaging of flagella motility and swimming in *Giardia lamblia* trophozoites.  Proc Natl Acad Sci USA. 2011;108(34):E550–E558.
+1. Campanati L, Holloschi A, Troster H, Spring H, de Souza W, Monteiro-Leal LH.  Video-microscopy observations of fast dynamic processes in the protozoon *Giardia lamblia*. Cell Motil Cytoskeleton. 2002;51:213–224.
+1. Chen J, Lenaghan SC, Zhang M.  Analysis of dynamics and planar motion strategies of a swimming microorganism - *Giardia lamblia*.  In:  ICRA; 2012.

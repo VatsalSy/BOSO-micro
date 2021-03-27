@@ -4,8 +4,8 @@
 
 **Class:** Halobacteria
 
-|    |**Morphology**|
-|:-- | :----------: |
+|    | **Morphology** |
+|:-- | :------------: |
 | B  | 2.715 |
 | δB | 0.355 |
 | W  |  |
@@ -33,4 +33,4 @@
 
 **References:**
 
-1. BOSO
+1. Alam M, Claviez M, Oesterhelt D, Kessell M.  Flagella and motility behaviour of square bacteria.  EMBO J.1984;3:2899–2903.

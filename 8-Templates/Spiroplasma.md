@@ -27,4 +27,5 @@
 1. **ck:** Speed of the propagation of kinks [µm s-1]
 
 **References:**
+
 1.
