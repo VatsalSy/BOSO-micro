@@ -1,5 +1,7 @@
 **Species:** *Chlamydomonas reinhardtii*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Chlamydomonas_sp.png)
+
 **Phylum:** Chlorophyta
 
 **Class:** Chlorophyceae

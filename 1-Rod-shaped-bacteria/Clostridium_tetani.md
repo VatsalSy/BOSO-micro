@@ -1,5 +1,7 @@
 **Species:** *Clostridium tetani*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Clostridium_sp.png)
+
 **Phylum:** Firmicutes
 
 **Class:** Clostridia

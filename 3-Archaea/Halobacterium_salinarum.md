@@ -1,5 +1,7 @@
 **Species:** *Halobacterium salinarum*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Halobacterium_sp.png)
+
 **Phylum:** Euryarchaeota
 
 **Class:** Halobacteria

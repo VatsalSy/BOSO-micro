@@ -1,5 +1,7 @@
 **Species:** *Spiroplasma melliferum*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Spiroplasma_melliferum.png)
+
 **Phylum:** Tenericutes
 
 **Class:** Mollicutes

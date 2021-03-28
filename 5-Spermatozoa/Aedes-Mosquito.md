@@ -1,5 +1,7 @@
 **Species:** *Aedes-Mosquito*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Aedes_spermatozoon.png)
+
 **Phylum:** Arthropoda
 
 **Class:** Insecta

@@ -1,5 +1,7 @@
 **Species:** *Chaetopterus-Annelid*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Chaetopterus_spermatozoon.png)
+
 **Phylum:** Annelida
 
 **Class:** Polychaeta

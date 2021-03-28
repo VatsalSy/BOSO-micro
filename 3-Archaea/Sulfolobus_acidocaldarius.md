@@ -1,5 +1,7 @@
 **Species:** *Sulfolobus acidocaldarius*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Sulfolobus_sp.png)
+
 **Phylum:** Crenarchaeota
 
 **Class:** Thermoprotei

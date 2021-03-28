@@ -24,5 +24,7 @@
 Remark: *δx* specifies either the standard deviation of *x*, whenever possible, or half of the range of values of *x*.
 
 **Rules:**
-1. Every commit needs to be associated to a reference (description field). New references ought to be added to *REFERENCES.md* file.
-1. *Genus_species.md*
+1. Every commit needs to be associated to a reference (description field).
+1. Please follow the templates in /8-Templates and name new entries *Genus_species.md*.
+
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/BOSO_TreeOfLife.png)

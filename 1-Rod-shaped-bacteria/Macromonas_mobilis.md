@@ -1,5 +1,7 @@
 **Species:** *Macromonas mobilis*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Macromonas_sp.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Betaproteobacteria

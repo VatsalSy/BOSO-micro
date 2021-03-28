@@ -1,5 +1,7 @@
 **Species:** *Prymnesium parvum*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Prymnesium_parvum.png)
+
 **Phylum:** Haptophyta
 
 **Class:** Prymnesiophyceae

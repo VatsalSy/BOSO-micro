@@ -1,5 +1,7 @@
 **Species:** *Caulobacter crescentus*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Caulobacter_crescentus.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Alphaproteobacteria

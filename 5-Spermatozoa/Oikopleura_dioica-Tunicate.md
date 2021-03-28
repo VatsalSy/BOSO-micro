@@ -1,5 +1,7 @@
 **Species:** *Oikopleura dioica-Tunicate*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Oikopleura_spermatozoon.png)
+
 **Phylum:** Chordata
 
 **Class:** Appendicularia (Tunicata)

@@ -1,5 +1,7 @@
 **Species:** *Hemiselmis simplex*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Hemiselmis_sp.png)
+
 **Phylum:** Cryptophyta
 
 **Class:** Cryptophyceae

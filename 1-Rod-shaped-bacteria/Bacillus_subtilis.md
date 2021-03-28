@@ -1,5 +1,7 @@
 **Species:** *Bacillus subtilis*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Bacillus_sp.png)
+
 **Phylum:** Firmicutes
 
 **Class:** Bacilli

@@ -1,5 +1,7 @@
 **Species:** *Littorina sitkana-Sea snail*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Snail_spermatozoon.png)
+
 **Phylum:** Mollusca
 
 **Class:** Gastropoda

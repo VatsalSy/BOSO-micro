@@ -1,5 +1,7 @@
 **Species:** *Cafeteria roenbergensis*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Cafeteria_roenbergensis.png)
+
 **Phylum:** Bygira (Heterokont)
 
 **Class:** Bicosoecida

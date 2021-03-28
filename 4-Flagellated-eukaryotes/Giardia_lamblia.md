@@ -1,5 +1,7 @@
 **Species:** *Giardia lamblia*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Giardia_lamblia.png)
+
 **Phylum:** Sarcomastigophora
 
 **Class:** Zoomastigophora

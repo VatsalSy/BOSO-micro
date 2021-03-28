@@ -1,5 +1,7 @@
 **Species:** *Gadus morhua-Cod*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Cod_spermatozoon.png)
+
 **Phylum:** Chordata
 
 **Class:** Actinopterygii

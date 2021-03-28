@@ -1,5 +1,7 @@
 **Species:** *Borrelia burgdorferi*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Borrelia_burgdorferi.png)
+
 **Phylum:** Spirochaetes
 
 **Order:** Spirochaetales

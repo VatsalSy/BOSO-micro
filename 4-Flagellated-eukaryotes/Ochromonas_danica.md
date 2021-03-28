@@ -1,5 +1,7 @@
 **Species:** *Ochromonas danica*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Ochromonas_sp.png)
+
 **Phylum:** Ochrophyta (Heterokont)
 
 **Class:** Chrysophyceae

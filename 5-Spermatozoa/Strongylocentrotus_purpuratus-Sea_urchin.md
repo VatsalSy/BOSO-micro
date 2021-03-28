@@ -1,5 +1,7 @@
 **Species:** *Strongylocentrotus purpuratus-Sea urchin*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Strongylocentrotus_spermatozoon.png)
+
 **Phylum:** Echinodermata
 
 **Class:** Echinoidea

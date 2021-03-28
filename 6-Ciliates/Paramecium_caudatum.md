@@ -1,5 +1,7 @@
 **Species:** *Paramecium caudatum*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Paramecium_caudatum.png)
+
 **Phylum:** Intramacronucleata
 
 **Class:** Oligohymenophorea

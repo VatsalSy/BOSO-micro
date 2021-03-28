@@ -1,5 +1,7 @@
 **Species:** *Synechococcus*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Synechococcus_sp.png)
+
 **Phylum:** Cyanobacteria
 
 **Class:** Synechococcales

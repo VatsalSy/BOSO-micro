@@ -1,5 +1,7 @@
 **Species:** *Homo-Human*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Human_spermatozoon.png)
+
 **Phylum:** Chordata
 
 **Class:** Mammalia

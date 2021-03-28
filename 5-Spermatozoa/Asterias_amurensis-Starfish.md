@@ -1,5 +1,7 @@
 **Species:** *Asterias amurensis-Starfish*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Starfish_spermatozoon.png)
+
 **Phylum:** Echinodermata
 
 **Class:** Asteroidea

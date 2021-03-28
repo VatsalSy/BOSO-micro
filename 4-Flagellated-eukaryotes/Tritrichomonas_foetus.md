@@ -1,5 +1,7 @@
 **Species:** *Tritrichomonas foetus*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Tritrichomonas_foetus.png)
+
 **Phylum:** Metamonada
 
 **Class:** Parabasalia

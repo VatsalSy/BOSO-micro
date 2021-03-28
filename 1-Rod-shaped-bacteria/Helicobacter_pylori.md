@@ -1,5 +1,7 @@
 **Species:** *Helicobacter pylori*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Helicobacter_sp.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Epsilonproteobacteria

@@ -1,5 +1,7 @@
 **Species:** *Mixotricha sp*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Mixotricha_paradoxa.png)
+
 **Phylum:** Metamonada
 
 **Class:** Parabasalia

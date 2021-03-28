@@ -1,5 +1,7 @@
 **Species:** *Trypanosoma brucei*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Trypanosoma_brucei.png)
+
 **Phylum:** Euglenozoa
 
 **Class:** Kinetoplastea

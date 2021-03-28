@@ -1,5 +1,7 @@
 **Species:** *Campanularia flexuosa-Hydroid*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Campanularia_spermatozoon.png)
+
 **Phylum:** Cnidaria
 
 **Class:** Hydrozoa

@@ -1,4 +1,6 @@
-**Species:** *Stentor sp*
+**Species:** *Stentor sp.*
+
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Stentor_sp.png)
 
 **Phylum:** Postciliodesmatophora
 

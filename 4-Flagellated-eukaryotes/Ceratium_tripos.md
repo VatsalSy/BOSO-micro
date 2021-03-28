@@ -1,5 +1,7 @@
 **Species:** *Ceratium tripos*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Ceratium_sp.png)
+
 **Phylum:** Dinoflagellata
 
 **Class:** Dinophyceae

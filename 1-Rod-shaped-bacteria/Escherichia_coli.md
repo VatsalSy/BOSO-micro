@@ -1,5 +1,7 @@
 **Species:** *Escherichia coli*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Escherichia_coli.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Gammaproteobacteria

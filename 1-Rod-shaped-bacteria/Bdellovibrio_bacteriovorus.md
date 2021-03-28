@@ -1,5 +1,7 @@
 **Species:** *Bdellovibrio bacteriovorus*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Bdellovibrio_sp.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Deltaproteobacteria

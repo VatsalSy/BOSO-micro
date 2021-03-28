@@ -1,5 +1,7 @@
 **Species:** *Marinoscillum furvescens*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Marinoscillum_sp.png)
+
 **Phylum:** Bacteroidetes
 
 **Class:** Cytophagia

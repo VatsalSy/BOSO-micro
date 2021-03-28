@@ -1,5 +1,7 @@
 **Species:** *Spirillum volutans*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Spirillum_volutans.png)
+
 **Phylum:** Proteobacteria
 
 **Class:** Betaproteobacteria
