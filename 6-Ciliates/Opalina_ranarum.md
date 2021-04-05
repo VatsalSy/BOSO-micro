@@ -1,5 +1,7 @@
 **Species:** *Opalina ranarum*
 
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Opalina_ranarum.png)
+
 **Phylum:** Placidozoa (Heterokont)
 
 **Class:** Opalinea

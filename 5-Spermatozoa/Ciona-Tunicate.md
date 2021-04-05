@@ -1,6 +1,6 @@
 **Species:** *Ciona-Tunicate*
 
-![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Ciona_speratozoon.png)
+![alt text](https://github.com/marcos-fvr/BOSO-micro/blob/main/9-Figures/Ciona_spermatozoon.png)
 
 **Phylum:** Chordata
 
